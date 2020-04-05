@@ -1,8 +1,0 @@
-50
-music,true
-America,true
-festival,false
-interesting,true
-government,false
-lol,true
-amazing,true
